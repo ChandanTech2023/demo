@@ -1,6 +1,6 @@
 Responsive Login Form : -
 
-. Login page Using HTML ,CSS & Javascript.
-. Contains Beautiful background image and glass style .
-. Compatable with all Devices and attractive user interface .
-. Also make show and hide password function .
+. Login page Using HTML ,CSS & Javascript.<br/>
+. Contains Beautiful background image and glass style .<br/>
+. Compatable with all Devices and attractive user interface .<br/>
+. Also make show and hide password function .<br/>
